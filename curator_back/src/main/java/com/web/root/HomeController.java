@@ -35,6 +35,7 @@ public class HomeController {
 		
 		return "home";
 	}
+
 	
 	@RequestMapping(value = "/", method = RequestMethod.GET)
 	public String home3(Locale locale, Model model) {
@@ -51,6 +52,7 @@ public class HomeController {
 		
 		//ffffff
 	}
+>>>>>>> branch 'main' of https://github.com/dldldusgh/curator_back.git
 	
 	//hello
 	

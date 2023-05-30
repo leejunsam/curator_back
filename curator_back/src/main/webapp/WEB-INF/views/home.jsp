@@ -10,5 +10,6 @@
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
+<input type="button" value="Test" onclick="location.href='test'">
 </body>
 </html>
